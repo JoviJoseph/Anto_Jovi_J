@@ -19,4 +19,4 @@
 
 ---
 
-🔹 *Always building cool projects in Data Science!* 🚀
+🔹 *Always building cool projects in Data Science!* 
