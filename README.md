@@ -17,10 +17,7 @@
 - **Data Visualization**: Superset, Power BI, Matplotlib, Seaborn  
 - **Tools**: Jupyter, Docker, Git, Postman  
 
----
-## 📊 GitHub Stats  
 
-![JoviJoseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoviJoseph&show_icons=true&theme=radical)
 ## 🔥 GitHub Commit Graph  
 
 ![JoviJoseph's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoviJoseph&theme=react-dark)
