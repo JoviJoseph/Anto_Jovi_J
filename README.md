@@ -18,5 +18,8 @@
 - **Tools**: Jupyter, Docker, Git, Postman  
 
 ---
+## 📊 GitHub Stats  
+
+![JoviJoseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoviJoseph&show_icons=true&theme=radical)
 
 🔹 *Always building cool projects in Data Science!* 
