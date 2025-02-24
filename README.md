@@ -1,4 +1,4 @@
-# Hi there, I'm J. Anto Jovi! 👋
+# Hi there, I'm Anto Jovi! 👋
 
 🚀 **Junior Data Engineer | Aspiring Data Scientist** | Passionate about **Machine Learning, Data Analytics, and Big Data**  
 💡 Working with **Deep Learning, NLP, and AI**  
