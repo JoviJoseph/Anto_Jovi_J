@@ -21,5 +21,13 @@
 ## 📊 GitHub Stats  
 
 ![JoviJoseph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoviJoseph&show_icons=true&theme=radical)
+## 🔥 GitHub Commit Graph  
+
+![JoviJoseph's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JoviJoseph&theme=react-dark)
+
+## 🚀 Most Used Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoviJoseph&layout=compact&theme=radical)
+
 
 🔹 *Always building cool projects in Data Science!* 
